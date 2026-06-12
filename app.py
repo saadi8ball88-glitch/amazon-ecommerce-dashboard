@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-st.write("Select a page from the sidebar.")
 # =========================
 # PAGE CONFIG
 # =========================
