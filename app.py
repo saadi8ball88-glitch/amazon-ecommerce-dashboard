@@ -3,8 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-st.title("Amazon E-Commerce Dashboard")
-
 st.write("Select a page from the sidebar.")
 # =========================
 # PAGE CONFIG
